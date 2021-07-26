@@ -9,8 +9,6 @@ function colorChanger() {
     let purple = document.getElementById("purple");
     let orange = document.getElementById("orange");
 
-    // element.style.color = "none";  
-
     blue.onclick = function () {
         element.style.color = "blue";
     }
