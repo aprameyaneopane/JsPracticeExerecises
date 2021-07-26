@@ -30,7 +30,7 @@ function colorChanger() {
     }
 
     orange.onclick = function () {
-        element.style.color = "rgb(255, 102, 0)";
+        element.style.color = "rgb(255, 102, 0.1)";
     }
 
 }
